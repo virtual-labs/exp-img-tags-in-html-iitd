@@ -1,1 +1,1 @@
-##Inserting Images through img Tag
+Inserting Images through img Tag
