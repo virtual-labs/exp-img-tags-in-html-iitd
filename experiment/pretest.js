@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹img› tag is used to insert an image.State True or False.",
+      question: "â€¹imgâ€º tag is used to insert an image.State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹img› is an empty element.State True or False.",
+      question: "â€¹imgâ€º is an empty element.State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -122,10 +122,10 @@
 	{
       question: "What is the correct HTML code for inserting an image?",
       answers: {
-        a: "‹img href="image.gif /›",
-        b: "‹img src="image.gif" /›",
-        c: "‹image src="image.gif"",
-        d: "‹img:image.gif›"
+        a: "â€¹img href=image.gif /â€º",
+        b: "â€¹img src=image.gif â€º",
+        c: "â€¹image src=image.gif",
+        d: "â€¹img:image.gifâ€º"
       },
       correctAnswer: "a"
     },
