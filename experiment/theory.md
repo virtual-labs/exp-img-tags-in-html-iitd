@@ -1,4 +1,4 @@
-###Theory<br>
+
 <b>1.1 Introduction</b>
 
 The ‹img› tag is used to insert an image into an HTML document. The image itself isn’t being inserted directly into the document, the browser loads it from the source specified in the ‹img› tag.
