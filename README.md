@@ -1,20 +1,22 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer Science Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Basics of HTML
+<b> Experiment|     <b> Exp 3. Inserting images though img tags
+
+
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The aim of this experiment is to understand the concept of img tag and its use in HTML code.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Ranjan Bose
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Delhi
+<b> Email id|     <b>  rbose.iitd@gmail.com
+<b> Department |  Electrical Engineering
 
 ### Contributors List
 
