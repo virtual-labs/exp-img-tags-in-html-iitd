@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science Engineering
 :--|:--|
 <b> Lab | <b> Basics of HTML
-<b> Experiment|     <b> Exp 3. Inserting images though img tags
+<b> Experiment|     <b> 3. Inserting images though img tags
 
 
 
