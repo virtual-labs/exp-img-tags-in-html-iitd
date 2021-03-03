@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹img› tag is used to insert an image.State True or False.",
+      question: "Q1. ‹img› tag is used to insert an image. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹img› is an empty element.State True or False.",
+      question: "Q2. ‹img› is an empty element. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Alt attribute in image tag is used to.",
+      question: "Q3. Alt attribute in image tag is used to.",
       answers: {
         a: "Give an alternative text",
         b: "Give an alternative image",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Image names and Image values can be written in ________________.",
+      question: "Q4. Image names and Image values can be written in ________________.",
       answers: {
         a: "Upper Case",
         b: "Lower Case",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "What is the correct HTML code for inserting an image?",
+      question: "Q5. What is the correct HTML code for inserting an image?",
       answers: {
         a: "‹img href=image.gif /›",
         b: "‹img src=image.gif ›",
