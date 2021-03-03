@@ -9,7 +9,7 @@ There is an attribute required for ‹img› element: src, which is used to show
 ### 1.2 Syntax
 
 
-***‹img src="imagepath/imagename"›***
+<i> ‹img src="imagepath/imagename"></i>
 
 ‹img src="http://www.vlab.co.in/images/logo.jpg"›
 
