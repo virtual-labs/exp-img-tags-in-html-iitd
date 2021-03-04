@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "We can also set image border in HTML code.",
+      question: "Q1. We can also set image border in HTML code.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Which attribute is used to provide the border of an image ?",
+      question: "Q2. Which attribute is used to provide the border of an image?",
       answers: {
         a: " border",
         b: "setborder",
@@ -100,18 +100,18 @@
     },
 
     {
-      question: "The ______ tag defines an image in an HTML page.",
+      question: "Q3. The ______ tag defines an image in an HTML page.",
       answers: {
-        a: "‹img›",
-        b: "‹pic›",
-        c: "‹imge›",
-        d: "‹image›"      
+        a: "â€¹imgâ€º",
+        b: "â€¹picâ€º",
+        c: "â€¹imgeâ€º",
+        d: "â€¹imageâ€º"      
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "__________ attribute is used to display an image?",
+      question: "Q4. __________ attribute is used to display an image?",
       answers: {
         a: "src",
         b: "val",
@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "Which of the following pair of attribute is required for img tag ?",
+      question: "Q5. Which of the following pair of attribute is required for img tag?",
       answers: {
         a: "img and alt",
         b: "src and alt",

@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of ‹img› tag in HTML code.
-- use images in HTML pages through proper syntax.
+- Demonstrate working of ‹img› tag in HTML code.
+- Use images in HTML pages through proper syntax.
