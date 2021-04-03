@@ -6,6 +6,5 @@
 
 3. HTML and CSS: Design and Build Websites By- Jon Duckett.
 
-4. NPTEL: Introduction to HTML [HTML Image Tag](https://www.youtube.com/watch?v=g6xsNHnAmlE)
 
 
