@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. ‹img› tag is used to insert an image. State True or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. ‹img› is an empty element. State True or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Alt attribute in image tag is used to.",
+	"answers": {
+		"a": "Give an alternative text",
+		"b": "Give an alternative image",
+		"c": "Give an alternative color",
+		"d": "All of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Image names and Image values can be written in ________________.",
+	"answers": {
+		"a": "Upper Case",
+		"b": "Lower Case",
+		"c": "Both",
+		"d": "None"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q5. What is the correct HTML code for inserting an image?",
+	"answers": {
+		"a": "‹img href=image.gif /›",
+		"b": "‹img src=image.gif ›",
+		"c": "‹image src=image.gif",
+		"d": "‹img:image.gif›"
+	},
+	"correctAnswer": "a"
+}]
