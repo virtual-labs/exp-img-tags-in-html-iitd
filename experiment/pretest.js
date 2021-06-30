@@ -116,18 +116,18 @@
         c: "Both",
         d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 	
 	{
       question: "Q5. What is the correct HTML code for inserting an image?",
       answers: {
         a: "‹img href=image.gif /›",
-        b: "‹img src=image.gif ›",
+        b: "‹img src='image.gif'›",
         c: "‹image src=image.gif",
         d: "‹img:image.gif›"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
   ];
 
