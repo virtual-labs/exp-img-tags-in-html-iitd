@@ -17,8 +17,8 @@ C  Give an alternative color<br>
 
 Q4. Image names and Image values can be written in ________________.<br>
 A  Upper Case<br>
-<b>B  Lower Case<br></b>
-C  Both<br>
+B  Lower Case<br>
+<b>C  Both<br></b>
 D  None<br>
 
 Q5. What is the correct HTML code for inserting an image?<br>
