@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q1. We can also set image border in HTML code.<br>
+Q1. Can we also set image border in HTML code.<br>
 <b>A  True<br></b>
 B   False<br>
 
