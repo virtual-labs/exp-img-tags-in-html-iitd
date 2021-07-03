@@ -23,6 +23,6 @@ D  None<br>
 
 Q5. What is the correct HTML code for inserting an image?<br>
 A  ‹img href="image.gif" /›<br>
-<b>B  ‹img src="image.gif" /›<br></b>
+<b>B  ‹img src="'image.gif'" /›<br></b>
 C  ‹image src="image.gif"<br>
 D  ‹img:image.gif›<br>
