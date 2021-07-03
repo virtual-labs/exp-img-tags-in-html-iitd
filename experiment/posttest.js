@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. We can also set image border in HTML code.",
+      question: "Q1.Can we also set image border in HTML code.",
       answers: {
         a: "True",
         b: "False"        
