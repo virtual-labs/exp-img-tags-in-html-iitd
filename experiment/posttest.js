@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Q4. __________ attribute is used to display an image?",
+      question: "Q4. __________ attribute is used to display an image.",
       answers: {
         a: "src",
         b: "val",
