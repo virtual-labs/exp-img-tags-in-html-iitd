@@ -17,7 +17,7 @@ C  ‹imge›<br>
 D  ‹image›<br>
 
 
-Q4.__________ attribute is used to display an image?<br>
+Q4.__________ attribute is used to display an image.<br>
 <b>A  src <br></b>
 B  val<br>
 C  source<br>
