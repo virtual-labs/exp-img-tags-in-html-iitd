@@ -11,7 +11,7 @@ There is an attribute required for ‹img› element: src, which is used to show
 
 <i> ‹img src="imagepath/imagename"></i>
 
-‹img src="http://www.vlab.co.in/images/logo.jpg"›
+‹img src="https://www.vlab.co.in/images/logo.jpg"›
 
 
 ### 1.3 Attributes of ‹img› tag
