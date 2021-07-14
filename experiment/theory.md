@@ -18,7 +18,7 @@ There is an attribute required for ‹img› element: src, which is used to show
 
 
 |	Attribute   |     Value      |  Description    |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------|
 |  	alt |   text |  Specifies an alternate text for an image |
 | 	border	 |   pixels  |  Specifies the width of the border around an image |
 | height |  pixels |  Specifies the height of an image |
