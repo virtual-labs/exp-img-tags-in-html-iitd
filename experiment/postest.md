@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q1. We can also set image border in HTML code.<br>
+Q1. We can also set image border in HTML code?<br>
 <b>A  True<br></b>
 B   False<br>
 
@@ -17,13 +17,13 @@ C  ‹imge›<br>
 D  ‹image›<br>
 
 
-Q4.__________ attribute is used to display an image?<br>
+Q4.__________ attribute is used to display an image.<br>
 <b>A  src <br></b>
 B  val<br>
 C  source<br>
 D  srs<br>
 
-Q5. Which of the following pair of attribute is required for img tag ?<br>
+Q5. Which of the following pair of attribute is is used with img tag ?<br>
 A  img and alt <br>
 <b>B  src and alt<br></b>
 C  src and a<br>

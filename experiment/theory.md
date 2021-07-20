@@ -11,14 +11,17 @@ There is an attribute required for ‹img› element: src, which is used to show
 
 <i> ‹img src="imagepath/imagename"></i>
 
-‹img src="http://www.vlab.co.in/images/logo.jpg"›
+‹img src="https://www.vlab.co.in/images/logo.jpg"›
 
 
 ### 1.3 Attributes of ‹img› tag
 
- 	Attribute	  Value	  Description
-  	alt	  		  text	  Specifies an alternate text for an image
-  	border	  	  pixels  Specifies the width of the border around an image
-  	height	  	  pixels  Specifies the height of an image
-  	src	  		  URL	  Specifies the URL of an image
-  	width	  	  pixels  Specifies the width of an image
+
+|	Attribute   |     Value      |  Description    |
+|----------|:-------------:|:------|
+|  	alt |   text |  Specifies an alternate text for an image |
+| 	border	 |   pixels  |  Specifies the width of the border around an image |
+| height |  pixels |  Specifies the height of an image |
+| 	src		 |  URL	  |  Specifies the URL of an image|
+| width | pixels |   Specifies the width of an image|
+

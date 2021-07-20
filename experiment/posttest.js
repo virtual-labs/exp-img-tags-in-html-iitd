@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. We can also set image border in HTML code.",
+      question: "Q1.We can also set image border in HTML code?",
       answers: {
         a: "True",
         b: "False"        
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Q4. __________ attribute is used to display an image?",
+      question: "Q4. __________ attribute is used to display an image.",
       answers: {
         a: "src",
         b: "val",
@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "Q5. Which of the following pair of attribute is required for img tag?",
+      question: "Q5. Which of the following pair of attribute is used with img tag?",
       answers: {
         a: "img and alt",
         b: "src and alt",
